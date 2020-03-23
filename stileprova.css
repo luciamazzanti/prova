@@ -1,0 +1,13 @@
+h1 {
+	font-size: 55px;
+}
+
+@font-face {
+   font-family: 'CooperBlackStd';
+   src: local('CooperBlackStd'), url('CooperBlackStd.otf') format('truetype');
+}
+
+p {
+	font-size: 25px;
+	transform: translate(0%, -60%);
+}
